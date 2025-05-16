@@ -11,5 +11,4 @@ int main() {
     }
     if (count>=2) printf("E");
     else printf("N");
-    return 0;
 }
