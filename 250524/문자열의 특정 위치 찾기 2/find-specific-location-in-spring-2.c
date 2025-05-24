@@ -8,7 +8,7 @@ int main() {
     scanf("%c",&c);
     for (int i=0;i<5;i++){
         if(str[i][2]==c||str[i][3]==c){
-            printf("%s",str[i]);
+            printf("%s\n",str[i]);
             count++;
         }
     }
